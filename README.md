@@ -1,8 +1,7 @@
 # MEDLAND
 
 *A INFORMAÇÃO NA PALMA DA SUA MÃO*
-
-![Hackaton MS Logo (16)](innovation-program-2022/Hackaton MS Logo (16).png)
+<img src="/Hackaton MS Logo (16).png" alt="Hackaton MS Logo"/>
 
 ## O QUE É O MEDLAND?
 
@@ -10,7 +9,7 @@ MEDLAND é  um projeto idealizada para o **Programa de Inovação** do **Minist�
 
 
 
-###### SOBRE A EQUIPE DO MEDLAND
+#### SOBRE A EQUIPE DO MEDLAND
 
 Procurando um time de alta diversidade para construir uma ideia completa com diversos ângulos de visão, o time foi composto por:
 
@@ -26,7 +25,7 @@ Narayane R. Medeiros (UI&UX Designer):
 
 
 
-###### SOBRE O PORQUÊ DE A EQUIPE TER SE INSCRITO NO PROGRAMA
+#### SOBRE O PORQUÊ DE A EQUIPE TER SE INSCRITO NO PROGRAMA
 
 Além de poder colaborar com um grande avanço tecnológico e estrutural da saúde do país, ao participar do Programa de Inovação, pudemos fazer parte de um desafio que traz entusiastas em tecnologia, fomentando ainda mais esse setor.
 
@@ -42,7 +41,7 @@ A proposta do Programa de Inovação foi o desenvolvimento de protótipos de um 
 
 
 
-###### SOBRE O MINISTÉRIO DA SAÚDE
+#### SOBRE O MINISTÉRIO DA SAÚDE
 
 O Ministério da Saúde é o gestor nacional do SUS. É ele que formula, normatiza, fiscaliza, monitora e avalia políticas e ações em prol da saúde de toda a população do Brasil.
 
@@ -50,13 +49,13 @@ No Ministério da Saúde existe o Departamento de Ciência e Tecnologia, o Decit
 
 
 
-###### SOBRE O INOVA DADOS
+#### SOBRE O INOVA DADOS
 
 O Projeto Inova Dados vem para otimizar o uso de dados, informações e evidências científicas na área da saúde. A ideia do Projeto é reestruturar o sistema de informações do Ministério da Saúde, voltado à Ciência e Tecnologia em Saúde, reunindo em uma única plataforma de dados toda a produção científica dos estudos financiados. Com a melhoria da gestão das informações científicas, será possível atender demandas e necessidades com ainda mais precisão, além de incentivar o desenvolvimento científico e tecnológico na tomada de decisões dentro do sistema de saúde.
 
 
 
-###### SOBRE O CAMPUS PARTY
+#### SOBRE O CAMPUS PARTY
 
 A Campus Party é um dos maiores festivais de tecnologia do mundo, com participação massiva no Brasil, e que traz em cada edição muito empreendedorismo, ciência, criatividade e inovação. Toda a estrutura da Campus Party é dividida em setores, que buscam estimular o conhecimento e a integração entre todos os participantes, tudo com muito dinamismo.
 
