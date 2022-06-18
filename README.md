@@ -1,4 +1,4 @@
-<center># MEDLAND</center>
+# MEDLAND
 
 *A INFORMAÇÃO NA PALMA DA SUA MÃO*
 <img src="/Hackaton MS Logo (16).png" alt="Hackaton MS Logo"/>
