@@ -2,7 +2,7 @@
 
 *A INFORMAÇÃO NA PALMA DA SUA MÃO*
 
-![Hackaton MS Logo (16)](C:\Users\Narayane R Medeiros\Downloads\Hackaton MS Logo (16).png)
+![Hackaton MS Logo (16)](./Hackaton MS Logo (16).png)
 
 ## O QUE É O MEDLAND?
 
