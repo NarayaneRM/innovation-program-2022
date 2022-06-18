@@ -15,15 +15,7 @@ MEDLAND é  um projeto idealizada para o **Programa de Inovação** do **Minist�
 
 Procurando um time de alta diversidade para construir uma ideia completa com diversos ângulos de visão, o time foi composto por:
 
-Alisson (empreendedor):
-
-Camila (Negócios):
-
-Eduardo Fontenele (UI&UX Designer):
-
-Gabriel (Developer):
-
-Narayane R. Medeiros (UI&UX Designer):
+Alisson (empreendedor); Camila (Negócios); Eduardo Fontenele (UI&UX Designer); Gabriel (Developer); Narayane R. Medeiros (UI&UX Designer):
 
 
 
